@@ -38,4 +38,15 @@
           href="Location_id-af25fadff65648a5b61a8d502241cad2.xml#id-af25fadff65648a5b61a8d502241cad2"/>
     </children>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-13790151c1054a358058f479040c5561"
+      textAlignment="1"
+      content="tambah satu">
+    <bounds
+        x="177"
+        y="61"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
