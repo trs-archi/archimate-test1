@@ -24,6 +24,18 @@
         x="240"
         y="144"
         width="400"
-        height="140"/>
+        height="169"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-72c4460d8fd64c5298fde05fb2bffecb">
+      <bounds
+          x="254"
+          y="84"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Location"
+          href="Location_id-af25fadff65648a5b61a8d502241cad2.xml#id-af25fadff65648a5b61a8d502241cad2"/>
+    </children>
   </children>
 </archimate:ArchimateDiagramModel>
