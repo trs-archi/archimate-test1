@@ -61,4 +61,16 @@
         xsi:type="archimate:ValueStream"
         href="ValueStream_id-8541e39a113b43928f0f992fdbd4aa49.xml#id-8541e39a113b43928f0f992fdbd4aa49"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d5528240231d4dfeb907404c1607299b">
+    <bounds
+        x="299"
+        y="368"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-851a461e28be424ca5bddf49f2ee56c5.xml#id-851a461e28be424ca5bddf49f2ee56c5"/>
+  </children>
 </archimate:ArchimateDiagramModel>
